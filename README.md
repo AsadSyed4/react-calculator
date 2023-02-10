@@ -1,2 +1,0 @@
-# react-calculator
-React Assessment
